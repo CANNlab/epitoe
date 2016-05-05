@@ -9,10 +9,9 @@ Written by Joseph D. Viviano and Erin W Dickie, 2014-16.
 > As long as our brain is a mystery, the universe, the reflection of the structure of the brain will also be a mystery.
 > -- Santiago Ramón y Cajal
 
-*Current under active development at the TIGRLab (CAMH), and is regularly updated with modules to meet the demands of this site.*
+This is a BACKUP of the code working on SHARCNET and the CANNLAB server. It should be replaced at some point with scriptuit and epitome from josephdviviano's user account, when it is complete. 
 
 **Shortcuts:**
-
 + [Setup](#setup)
 + [Introduction](#introduction)
 + [Dependencies](#dependencies)
